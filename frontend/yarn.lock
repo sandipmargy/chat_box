@@ -1297,14 +1297,14 @@
     "@chakra-ui/hooks" "1.5.2"
     "@chakra-ui/utils" "1.8.0"
 
-"@chakra-ui/color-mode@1.4.3":
-  "integrity" "sha512-2EFwsYZg3/wMH8DWtQic766N6gfw4Z/I8v57fmSSvkPV8k72pUdDn5ZjtnGhXU5R08aWl7w4exPo31ikLYlD6w=="
-  "resolved" "https://registry.npmjs.org/@chakra-ui/color-mode/-/color-mode-1.4.3.tgz"
-  "version" "1.4.3"
+"@chakra-ui/color-mode@1.4.6":
+  "integrity" "sha512-gCO8Z/jv68jXop94MUQNzigl7JXICAgZQUUqLaKhdy1h2zatVDIPFfjwwjnsgM97G0BxQaNBOC87+PD2UYjzHw=="
+  "resolved" "https://registry.npmjs.org/@chakra-ui/color-mode/-/color-mode-1.4.6.tgz"
+  "version" "1.4.6"
   dependencies:
-    "@chakra-ui/hooks" "1.8.2"
-    "@chakra-ui/react-env" "1.1.4"
-    "@chakra-ui/utils" "1.10.2"
+    "@chakra-ui/hooks" "1.8.5"
+    "@chakra-ui/react-env" "1.1.6"
+    "@chakra-ui/utils" "1.10.4"
 
 "@chakra-ui/control-box@1.0.12":
   "integrity" "sha512-CZCqrm0rMj72/9i5raaKgxdJm0uGdES+8p9TdVesfSXZnsNmOquDY9TsI5fYMhG16yRRoiQK/dmX/j2VcD7tvA=="
@@ -1370,13 +1370,13 @@
     "compute-scroll-into-view" "1.0.14"
     "copy-to-clipboard" "3.3.1"
 
-"@chakra-ui/hooks@1.8.2":
-  "integrity" "sha512-rmWfXTh7Ku0sg4bPaR9E5a53N4dzcgrdMt5lDVeaxjLUm2faE0U8LcG8yJgpxNOMKDmaKat8Nrj6H5DBYhVB+A=="
-  "resolved" "https://registry.npmjs.org/@chakra-ui/hooks/-/hooks-1.8.2.tgz"
-  "version" "1.8.2"
+"@chakra-ui/hooks@1.8.5":
+  "integrity" "sha512-/UrBfUG7NLxuU/09gy2qQfEH+H5SPBUaUiFtokRlq887D/32JQ3XksZdF78RKMCM/0bbZuIjqUkuN/wO9kAbSw=="
+  "resolved" "https://registry.npmjs.org/@chakra-ui/hooks/-/hooks-1.8.5.tgz"
+  "version" "1.8.5"
   dependencies:
-    "@chakra-ui/react-utils" "1.2.2"
-    "@chakra-ui/utils" "1.10.2"
+    "@chakra-ui/react-utils" "1.2.3"
+    "@chakra-ui/utils" "1.10.4"
     "compute-scroll-into-view" "1.0.14"
     "copy-to-clipboard" "3.3.1"
 
@@ -1539,12 +1539,12 @@
   dependencies:
     "@chakra-ui/utils" "1.8.0"
 
-"@chakra-ui/react-env@1.1.4":
-  "integrity" "sha512-T3ABET1UUP8PAdE7rF6rc2Luo0xb539taFR7kES+MPK5Bmbu/mL55cj+xEKa2LSNKuzAVnvtmgWFZoX3V+PXsQ=="
-  "resolved" "https://registry.npmjs.org/@chakra-ui/react-env/-/react-env-1.1.4.tgz"
-  "version" "1.1.4"
+"@chakra-ui/react-env@1.1.6":
+  "integrity" "sha512-L90LNvCfe04FTkN9OPok/o2e60zLJNBH8Im/5dUHvqy7dXLXok8ZDad5vEL46XmGbhe7O8fbxhG6FmAYdcCHrQ=="
+  "resolved" "https://registry.npmjs.org/@chakra-ui/react-env/-/react-env-1.1.6.tgz"
+  "version" "1.1.6"
   dependencies:
-    "@chakra-ui/utils" "1.10.2"
+    "@chakra-ui/utils" "1.10.4"
 
 "@chakra-ui/react-utils@^1.1.2", "@chakra-ui/react-utils@1.1.2":
   "integrity" "sha512-S8jPVKGZH2qF7ZGxl/0DF/dXXI2AxDNGf4Ahi2LGHqajMvqBB7vtYIRRmIA7+jAnErhzO8WUi3i4Z7oScp6xSA=="
@@ -1553,12 +1553,12 @@
   dependencies:
     "@chakra-ui/utils" "^1.7.0"
 
-"@chakra-ui/react-utils@1.2.2":
-  "integrity" "sha512-vdVtwEooRPVmB60+B9FEJNc+L4+DO6llA9qTk8ZFq7ocXLGagl+V5mFKJPLMzmTCafq6j5pNjoAF4A7bbh4U4Q=="
-  "resolved" "https://registry.npmjs.org/@chakra-ui/react-utils/-/react-utils-1.2.2.tgz"
-  "version" "1.2.2"
+"@chakra-ui/react-utils@1.2.3":
+  "integrity" "sha512-r8pUwCVVB7UPhb0AiRa9ZzSp4xkMz64yIeJ4O4aGy4WMw7TRH4j4QkbkE1YC9tQitrXrliOlvx4WWJR4VyiGpw=="
+  "resolved" "https://registry.npmjs.org/@chakra-ui/react-utils/-/react-utils-1.2.3.tgz"
+  "version" "1.2.3"
   dependencies:
-    "@chakra-ui/utils" "^1.10.2"
+    "@chakra-ui/utils" "^1.10.4"
 
 "@chakra-ui/react@^1.6.2":
   "integrity" "sha512-AbX+0LN9PWzaM/iVa2z4efm/LyV6q5VaAVbhaK7i06Mr6hPOgCfR8wdSL2q4aWcLdecsjZ9nEjqpTrQtyOX/zA=="
@@ -1664,12 +1664,12 @@
     "@chakra-ui/utils" "1.8.0"
     "csstype" "^3.0.6"
 
-"@chakra-ui/styled-system@1.17.2":
-  "integrity" "sha512-isRmQZ41YULv5ANM/+JnLLpLYM7/V35hnGBZzC6y8n2duWtvG4ubrY60SBrFvphI2IKSk4kg9uM83Wf+M/eV4A=="
-  "resolved" "https://registry.npmjs.org/@chakra-ui/styled-system/-/styled-system-1.17.2.tgz"
-  "version" "1.17.2"
+"@chakra-ui/styled-system@1.18.1":
+  "integrity" "sha512-uhWMNAfkk1DFAQ4nKu+t23WBQ1/XSJq8Y3sBZJQpvopfwOcarbVvEiM5voSUWPA7pkpD/BprGM7zjIRockUcmw=="
+  "resolved" "https://registry.npmjs.org/@chakra-ui/styled-system/-/styled-system-1.18.1.tgz"
+  "version" "1.18.1"
   dependencies:
-    "@chakra-ui/utils" "1.10.2"
+    "@chakra-ui/utils" "1.10.4"
     "csstype" "^3.0.9"
 
 "@chakra-ui/switch@1.2.5":
@@ -1680,15 +1680,15 @@
     "@chakra-ui/checkbox" "1.5.2"
     "@chakra-ui/utils" "1.8.0"
 
-"@chakra-ui/system@>=1.0.0":
-  "integrity" "sha512-am/0EvK+F+kiZ99ulhUfaYYADlP1wI4Zw8IWrsaliSfqSB3qgKahNC/U2A0nWG9T7wwLHVGO/ehCNfAKP1aK2g=="
-  "resolved" "https://registry.npmjs.org/@chakra-ui/system/-/system-1.10.3.tgz"
-  "version" "1.10.3"
+"@chakra-ui/system@^1.11.2", "@chakra-ui/system@>=1.0.0":
+  "integrity" "sha512-s4HGYVo86XuSav5PLfuVT26Y+l3ca/nQVF6QxS6YCNiUxdBlahlzsZz3yMz3MKp11voljnY8vj4z4dvOd2sjUQ=="
+  "resolved" "https://registry.npmjs.org/@chakra-ui/system/-/system-1.11.2.tgz"
+  "version" "1.11.2"
   dependencies:
-    "@chakra-ui/color-mode" "1.4.3"
-    "@chakra-ui/react-utils" "1.2.2"
-    "@chakra-ui/styled-system" "1.17.2"
-    "@chakra-ui/utils" "1.10.2"
+    "@chakra-ui/color-mode" "1.4.6"
+    "@chakra-ui/react-utils" "1.2.3"
+    "@chakra-ui/styled-system" "1.18.1"
+    "@chakra-ui/utils" "1.10.4"
     "react-fast-compare" "3.2.0"
 
 "@chakra-ui/system@1.6.6":
@@ -1785,10 +1785,10 @@
   dependencies:
     "@chakra-ui/utils" "1.8.0"
 
-"@chakra-ui/utils@^1.10.2", "@chakra-ui/utils@1.10.2":
-  "integrity" "sha512-V4nGBkebZpz6P7AgbZBiXi2Pn3RNSuzR1A6VsQCzAvxYU2+csqZGLqmC07pvCSACNB75sT1en+Xd3XT0QKr0sA=="
-  "resolved" "https://registry.npmjs.org/@chakra-ui/utils/-/utils-1.10.2.tgz"
-  "version" "1.10.2"
+"@chakra-ui/utils@^1.10.4", "@chakra-ui/utils@1.10.4":
+  "integrity" "sha512-AM91VQQxw8F4F1WDA28mqKY6NFIOuzc2Ekkna88imy2OiqqmYH0xkq8J16L2qj4cLiLozpYqba3C79pWioy6FA=="
+  "resolved" "https://registry.npmjs.org/@chakra-ui/utils/-/utils-1.10.4.tgz"
+  "version" "1.10.4"
   dependencies:
     "@types/lodash.mergewith" "4.6.6"
     "css-box-model" "1.2.1"
